@@ -1,3 +1,5 @@
+# da66en created 'feature_middle_sampling' branch and made a pull request to origin/fork master branch
+
 # Saleae Serial Peripheral Interface (SPI) Analyzer
 
 Saleae Serial Peripheral Interface (SPI) Analyzer
